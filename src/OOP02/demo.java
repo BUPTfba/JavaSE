@@ -22,6 +22,12 @@ package OOP02;
  *
  */
 
+/**
+ * String类型的==取决于是否new对象；
+ * String s1 == String s2;
+ * String s1 =new String("hello1")   String s2 = new String("hello2")
+ */
+
 public class demo {
 
 }
