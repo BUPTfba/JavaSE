@@ -1,0 +1,27 @@
+复制当前行到下一行       	 		ctrl + d
+删除当前行                		ctrl + y           ctrl+x/c ctrl+v
+移动某一行               	 		ctrl + shift + 上下
+
+快速生成try cache        	 		CTRL + ALT + T  
+快速生成get set、构造函数等 		ALT + INSERT
+
+行注释							Ctrl + /
+块注释							Ctrl +Shift+ /
+
+格式化代码						先Ctrl+A选择全部代码 然后 Ctrl+Alt+L
+变量上面添加文档信息                /**    /               
+
+回到上一次编辑位置                  ctrl+alt+左或右
+批量修改某一变量                    alt+shift+ctrl
+
+重写父类的方法		                 ctrl + o
+
+
+
+
+
+
+
+
+
+
