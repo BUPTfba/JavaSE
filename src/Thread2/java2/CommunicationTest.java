@@ -64,7 +64,7 @@ class Number implements Runnable{
 }
 
 
-public class CommunicationTest {
+public class  CommunicationTest {
     public static void main(String[] args) {
         Number number = new Number();
         Thread t1 = new Thread(number);
